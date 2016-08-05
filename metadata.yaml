@@ -1,0 +1,29 @@
+_repo: Fountains-in-the-Sand--Rambles-Among-the-Oases-of-Tunisia_8185
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Douglas, Norman
+    aliases:
+    - Douglass, George Norman
+    - Douglass, Norman
+    - Douglas, George Norman
+    birthdate: 1868
+    deathdate: 1952
+    gutenberg_agent_id: '1484'
+    url: http://www.gutenberg.org/2009/agents/1484
+    wikipedia: http://en.wikipedia.org/wiki/Norman_Douglas
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tunisia -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: 'Fountains in the Sand: Rambles Among the Oases of Tunisia'
+url: http://www.gutenberg.org/ebooks/8185
